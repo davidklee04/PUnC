@@ -3,7 +3,7 @@ Introduction
 
 PUnC is a 16-bit stored-program computer where all data and instructions are aligned 16-bit words. Both programs and data reside in the same memory unit. This README file provides an overview of PUnC's hardware modules and architecture.
 
-Hardware Modules
+# Hardware Modules
 
 Memory
 * 16-bit memory addresses
